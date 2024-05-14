@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|solutionrelative:clansystem_v2.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.server\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|solutionrelative:clansystem_v2.server\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|solutionrelative:clansystem_v2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.server\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|solutionrelative:clansystem_v2.server\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.server\\models\\clan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|solutionrelative:clansystem_v2.server\\models\\clan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.server\\models\\relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|solutionrelative:clansystem_v2.server\\models\\relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|solutionrelative:clansystem_v2.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|solutionrelative:clansystem_v2.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|solutionrelative:clansystem_v2.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|solutionrelative:clansystem_v2.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.server\\services\\clanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|solutionrelative:clansystem_v2.server\\services\\clanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.server\\controllers\\clancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|solutionrelative:clansystem_v2.server\\controllers\\clancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.client\\src\\joinclan.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|solutionrelative:clansystem_v2.client\\src\\joinclan.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|solutionrelative:clansystem_v2.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.server\\services\\relationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7702AB1-5009-4457-BCA8-759B41DFD3E9}|ClanSystem_v2.Server\\ClanSystem_v2.Server.csproj|solutionrelative:clansystem_v2.server\\services\\relationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.client\\src\\loginpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|solutionrelative:clansystem_v2.client\\src\\loginpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.client\\src\\contributions.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|solutionrelative:clansystem_v2.client\\src\\contributions.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.client\\src\\clan.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|solutionrelative:clansystem_v2.client\\src\\clan.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|c:\\users\\user\\source\\repos\\clansystem_v2\\clansystem_v2.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48DBAEB6-B772-4089-AC1E-A65E5631D262}|clansystem_v2.client\\clansystem_v2.client.esproj|solutionrelative:clansystem_v2.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ClanSystem_v2.Server\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Services\\UserService.cs",
+              "RelativeToolTip": "ClanSystem_v2.Server\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:53:39.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ClanSystem_v2.Server\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ClanSystem_v2.Server\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:53:37.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clan.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Models\\Clan.cs",
+              "RelativeDocumentMoniker": "ClanSystem_v2.Server\\Models\\Clan.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Models\\Clan.cs",
+              "RelativeToolTip": "ClanSystem_v2.Server\\Models\\Clan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:37:19.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ClanSystem_v2.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Models\\User.cs",
+              "RelativeToolTip": "ClanSystem_v2.Server\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:36:46.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Models\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "ClanSystem_v2.Server\\Models\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Models\\MongoDBSettings.cs",
+              "RelativeToolTip": "ClanSystem_v2.Server\\Models\\MongoDBSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:36:33.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Relation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Models\\Relation.cs",
+              "RelativeDocumentMoniker": "ClanSystem_v2.Server\\Models\\Relation.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Models\\Relation.cs",
+              "RelativeToolTip": "ClanSystem_v2.Server\\Models\\Relation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:36:32.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ClanSystem_v2.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Program.cs",
+              "RelativeToolTip": "ClanSystem_v2.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:34:16.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ClanSystem_v2.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\appsettings.json",
+              "RelativeToolTip": "ClanSystem_v2.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T04:30:23.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClanController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Controllers\\ClanController.cs",
+              "RelativeDocumentMoniker": "ClanSystem_v2.Server\\Controllers\\ClanController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Controllers\\ClanController.cs",
+              "RelativeToolTip": "ClanSystem_v2.Server\\Controllers\\ClanController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:08:24.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClanService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Services\\ClanService.cs",
+              "RelativeDocumentMoniker": "ClanSystem_v2.Server\\Services\\ClanService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Services\\ClanService.cs",
+              "RelativeToolTip": "ClanSystem_v2.Server\\Services\\ClanService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:06:13.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPage.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\LoginPage.jsx",
+              "RelativeDocumentMoniker": "clansystem_v2.client\\src\\LoginPage.jsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\LoginPage.jsx",
+              "RelativeToolTip": "clansystem_v2.client\\src\\LoginPage.jsx",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-14T02:47:31.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\index.css",
+              "RelativeDocumentMoniker": "clansystem_v2.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\index.css",
+              "RelativeToolTip": "clansystem_v2.client\\src\\index.css",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-14T02:06:09.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Contributions.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\Contributions.jsx",
+              "RelativeDocumentMoniker": "clansystem_v2.client\\src\\Contributions.jsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\Contributions.jsx",
+              "RelativeToolTip": "clansystem_v2.client\\src\\Contributions.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-14T02:03:57.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Clan.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\Clan.jsx",
+              "RelativeDocumentMoniker": "clansystem_v2.client\\src\\Clan.jsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\Clan.jsx",
+              "RelativeToolTip": "clansystem_v2.client\\src\\Clan.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-14T02:01:36.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "clansystem_v2.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\App.jsx",
+              "RelativeToolTip": "clansystem_v2.client\\src\\App.jsx",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-14T01:57:48.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\App.css",
+              "RelativeDocumentMoniker": "clansystem_v2.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\App.css",
+              "RelativeToolTip": "clansystem_v2.client\\src\\App.css",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-14T01:53:51.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RelationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Services\\RelationService.cs",
+              "RelativeDocumentMoniker": "ClanSystem_v2.Server\\Services\\RelationService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\ClanSystem_v2.Server\\Services\\RelationService.cs",
+              "RelativeToolTip": "ClanSystem_v2.Server\\Services\\RelationService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:17:09.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "clansystem_v2.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\main.jsx",
+              "RelativeToolTip": "clansystem_v2.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-14T00:45:50.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JoinClan.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\JoinClan.jsx",
+              "RelativeDocumentMoniker": "clansystem_v2.client\\src\\JoinClan.jsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClanSystem_v2\\clansystem_v2.client\\src\\JoinClan.jsx",
+              "RelativeToolTip": "clansystem_v2.client\\src\\JoinClan.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-14T00:55:34.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

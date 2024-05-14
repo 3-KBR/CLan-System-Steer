@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ClanSystem_v2.Server.props" />
+</Project>
